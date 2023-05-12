@@ -1,4 +1,4 @@
-# votion-git.github.io
+# Playmakr -- votion-git.github.io
 ## Host repo for Python-based, Spotify playlist making app
 
 Through the use of **Spotify's** API, in edition with per-genre statistics from **www.everynoiseatonce.com**, this program provides users with a simple way to construct playlists, defining them by genres and by various acoustic quality. The vast Spotify genre space is simplified using a clustering method to provide easy-to-understand, genre super-categories or "metagenre" using acoustic measures such as Valence, Energy, Instrumentalness, and Danceability users can create emotionally defined playlists.
