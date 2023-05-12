@@ -1,12 +1,10 @@
 # votion-git.github.io
 ## Host repo for Python-based, Spotify playlist making app
 
-Through the use of **Spotify's** API, in edition with per-genre statistics from **www.everynoiseatonce.com**, this program provides users with a simple way to construct playlists, defining them by genres and by various acoustic quality.
-> the vast Spotify genre space is simplified using a clustering method to provide easy-to-understand, genre super-categories or "metagenre" using acoustic measures such as Valence, Energy, Instrumentalness, and Danceability users can create emotionally defined playlists.
+Through the use of **Spotify's** API, in edition with per-genre statistics from **www.everynoiseatonce.com**, this program provides users with a simple way to construct playlists, defining them by genres and by various acoustic quality. The vast Spotify genre space is simplified using a clustering method to provide easy-to-understand, genre super-categories or "metagenre" using acoustic measures such as Valence, Energy, Instrumentalness, and Danceability users can create emotionally defined playlists.
 
 
 ## Site-ations
-
 ### Spotify
 https://developer.spotify.com/documentation/web-api
 + Danceability 	- how suitable a track is for dancing based on a combination of musical elements including tempo, rhythm stability, beat strength, and overall regularity. A value of 0.0 is least danceable and 1.0 is most danceable.
