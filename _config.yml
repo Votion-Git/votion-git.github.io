@@ -1,2 +1,5 @@
 remote_theme: pages-themes/minimal@v0.2.0
 markdown: GFM
+title: PLAYMAKR
+description: Playlist maker for Spoitfy, powered by Python.
+logo: 
