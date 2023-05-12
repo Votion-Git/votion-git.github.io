@@ -1,3 +1,4 @@
+![PlayMakr](https://github.com/Votion-Git/votion-git.github.io/assets/133277881/a47df594-cc83-4453-a841-e0adc25df8eb)
 # votion-git.github.io
 ## Host repo for Python-based, Spotify playlist making app
 
